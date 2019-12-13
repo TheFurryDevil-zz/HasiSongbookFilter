@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/deploymentConfig/scripts/-",
+    "value": "/hasi/songbookFilter/deployment/init.lua"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "op": "add",
+    "path": "/paneLayout/hasiSongbookFilter",
+    "value": {
+      "type": "textbox",
+      "position": [15, 32],
+      "hint": "<dll not loaded>",
+      "maxWidth": 90,
+      "callback": "null"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/hasiSongbookFilterBack",
+    "value": {
+      "type": "image",
+      "file": "/hasi/songbookFilter/interface/songbook/filter.png",
+      "position": [10, 29],
+      "zlevel": -3
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/group/position/0",
+    "value": 176
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblBandInput/position/0",
+    "value": 171
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnPlay/position/0",
+    "value": 116
+  }
+]
