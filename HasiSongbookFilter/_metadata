@@ -4,6 +4,6 @@
   "description" : "Allows you to filter your songbook.\n\nRead instructions on the mod homepage",
   "name" : "HasiSongbookFilter",
   "friendlyName" : "Hasi Songbook Filter",
-  "priority" : 42,
+  "priority" : 1337,
   "link" : "https://github.com/TheFurryDevil/HasiSongbookFilter"
 }
