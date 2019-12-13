@@ -13,8 +13,10 @@ I guarantee that the file is safe, if you get it from here. If you are going to 
 ## Requirements
 
 * **starbound.pdb** or Starbound 1.4.4
+
 The PDB is read by the DLL upon loading to automatically fetch some function addresses. If it is not present the DLL will use fallback addresses that are only compatible with 1.4.4.
 The **.pdb** file comes with the Steam version and you don't have to do anything with it. I don't know about other versions, though.
+
 * **safeScripts: false** or DLL injection program (read Installation step 3)
 
 ## Installation
