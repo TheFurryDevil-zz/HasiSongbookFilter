@@ -4,7 +4,7 @@
   "description" : "Allows you to filter your songbook.\n\nRead instructions on the mod homepage\n\n[^orange;Extended Songbook^reset; version]",
   "name" : "HasiSongbookFilter",
   "friendlyName" : "Hasi Songbook Filter",
-  "priority" : 42,
+  "priority" : 1337,
   "requires" : ["Extended Songbook"],
   "link" : "https://github.com/TheFurryDevil/HasiSongbookFilter"
 }
