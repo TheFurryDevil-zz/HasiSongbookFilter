@@ -1,7 +1,7 @@
 {
   "version" : "1.0",
   "author" : "^#ff9f7f;T^#ffde7f;h^#e0ff7f;e^#a1ff7f;F^#7fff9c;u^#7fffdb;r^#7fe3ff;r^#7fa4ff;y^#997fff;D^#d97fff;e^#ff7fe5;v^#ff7fb8;i^#ff7f9c;l",
-  "description" : "Allows you to filter your songbook.\n\nRequires HasiSongbookFilter.dll or it won't work\nRead instructions on the mod homepage\n\n[^orange;Extended Songbook^reset; version]",
+  "description" : "Allows you to filter your songbook.\n\nRead instructions on the mod homepage\n\n[^orange;Extended Songbook^reset; version]",
   "name" : "HasiSongbookFilter",
   "friendlyName" : "Hasi Songbook Filter",
   "priority" : 42,
