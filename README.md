@@ -1,6 +1,6 @@
 A mod for Starbound that allows you to filter your songbook by text
 
-Download from the [releases page](https://github.com/TheFurryDevil/HasiSongbookFilter/releases)
+Download from the [releases](https://github.com/TheFurryDevil/HasiSongbookFilter/releases) page
 
 ![vanilla version preview](https://cdn.imgchest.com/files/5g4z9cmo372.gif)
 
@@ -21,7 +21,7 @@ I guarantee that the file is safe, if you get it from here. If you are going to 
 The PDB is read by the DLL upon loading to automatically fetch some function addresses. If it is not present the DLL will use fallback addresses that are only compatible with 1.4.4.
 The **.pdb** file comes with the Steam version and you don't have to do anything with it. I don't know about other versions, though.
 
-* **safeScripts: false** or DLL injection program (read Installation step 3)
+* **"safeScripts": false** or DLL injection program (read Installation step 3)
 
 ## Installation
 
@@ -38,5 +38,5 @@ The **.pdb** file comes with the Steam version and you don't have to do anything
 3. Turn off **safeScripts** ***or*** inject the DLL manually
     * If you turn off **safeScripts** you are ready to go and the mod should work.
     You can turn it off in your **Starbound/storage/starbound.config** by setting **"safeScripts"** to **false**.
-    **I recommend to not turn off safeScripts if you have mods that you don't trust, since it allows every mod to run arbitrary code, even outside of Starbound.**
+    **I recommend to not turn off safeScripts if you have mods that you don't trust, since it allows every mod to run arbitrary code.**
     * If you do not want to turn it off you will have to manually inject the DLL *every time you start Starbound*. Any DLL injection program should do.
