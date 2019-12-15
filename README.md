@@ -2,7 +2,7 @@ A mod for Starbound that allows you to filter your songbook by text
 
 Download from the [releases page](https://github.com/TheFurryDevil/HasiSongbookFilter/releases)
 
-![test](https://cdn.imgchest.com/files/5g4z9cmo372.gif)
+![vanilla version preview](https://cdn.imgchest.com/files/5g4z9cmo372.gif)
 
 **Currently only 64 bit Windows is supported**
 
